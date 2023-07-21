@@ -1,6 +1,6 @@
 # Toxic Comment Classification Flask App
 
-This project was originally developed for the  **NLP Project 3 workshop@Vancouver School of AI** - [Github](https://github.com/SchoolofAI-Vancouver/NLP_Project_3) & [Meetup page](https://www.meetup.com/Vancouver-School-of-AI/events/256839305/) - to demonstrate how to deploy a toxic comment text classification model using Heroku and Flask. However, to keep things simple, we built this in a hackthon way and did not put much effort in enforcing good practices.
+This project was originally developed for the  **NLP Project 3 workshop@Vancouver School of AI** to demonstrate how to deploy a toxic comment text classification model using Heroku and Flask. However, to keep things simple, we built this in a hackthon way and did not put much effort in enforcing good practices.
 
 For fun and still for fun, I am going to take it a step further by adding test-driven development (TDD), DevOps (CI/CD), container (Docker), and deployment (I am sure this was in the original workshop, but I just mention it to make it sounds fancy :). 
 
@@ -67,11 +67,7 @@ Alternatively, ask for assistance on Slack. That's what this community is all ab
 
 ## Meetup Contributors
 
-[Akshi Chaudhary](https://github.com/akshi8)
-
-[Johannes Harmse](https://github.com/johannesharmse)
-
-[Xinbin Huang](https://github.com/xinbinhuang)
+Durgesh Bhardwaj
 
 [Peter Lin](https://github.com/peter0083)
 
