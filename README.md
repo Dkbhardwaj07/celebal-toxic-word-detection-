@@ -69,9 +69,7 @@ Alternatively, ask for assistance on Slack. That's what this community is all ab
 
 Durgesh Bhardwaj
 
-[Peter Lin](https://github.com/peter0083)
 
-[Johannes G](https://github.com/johannesgiorgis)
 
 
 
